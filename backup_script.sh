@@ -1,6 +1,6 @@
  #!/bin/bash
     #
-    # Creates an incremental, rotating snapshot every day using Cron
+    # This script creates an incremental, rotating snapshot every day using Cron
     # Up to six (current plus 5) snapshots will be stored
     #
     
